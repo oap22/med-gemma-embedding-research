@@ -1,0 +1,13 @@
+torch
+torchvision
+transformers>=4.52
+accelerate
+huggingface_hub[cli]
+sentencepiece
+safetensors
+pillow
+numpy
+pandas
+openpyxl
+jupyterlab
+ipykernel
